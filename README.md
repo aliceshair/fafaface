@@ -1,7 +1,7 @@
 #### I am Yuehan Lian
 - 📕 A junior CS student of Beijing Forestry University.
 - 👔 Finding a back-end developer internship on 2021(Jan-Jun).
-- 📧 Email: lianyuehan@bjfu.edu.cn
+- 📧 Email: lianyuehan@outlook.com
 - 🔭 绝赞课设中...
 - 🌱 Learning C++/Unix/Java/OS.
 - ⚡ Loving indie music, belles-lettres...etc
