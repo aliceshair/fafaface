@@ -5,7 +5,8 @@
 - 🔭 绝赞课设中...
 - 🌱 Learning C++/Unix/Java/OS.
 - ⚡ Loving indie music, belles-lettres...etc
+
+- My resume:[中文简历](https://github.com/fafaface/Resume/blob/main/resume.pdf)
+
 [![fafaface's github stats](https://github-readme-stats.vercel.app/api?username=fafaface)](https://github.com/fafaface/github-readme-stats)
 
-
-My resume:[中文简历](https://github.com/fafaface/Resume/blob/main/resume.pdf)
