@@ -3,7 +3,7 @@
 - 👔 Finding a back-end developer internship on 2021(Jan-Jun).
 - 📧 Email: lianyuehan@outlook.com
 - 🔭 绝赞课设中...
-- 🌱 Learning CSAPP/Rust
+- 🌱 Learning MIT 6.824/Rust
 - ⚡ Loving indie music, belles-lettres...etc
 
 - My resume: [中文简历](https://github.com/fafaface/Resume/blob/main/resume.pdf)
